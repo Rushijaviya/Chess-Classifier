@@ -1,7 +1,7 @@
 # Machine Learning Project (CS308)
 
 ## PPT
-* [Chess classifier](https://docs.google.com/presentation/d/11vUTgo507-mqVcihYos_RzoPPCW7z13aDzes7mCGGDM/edit?usp=sharing)
+* [CHESS Pieces Classifier](https://docs.google.com/presentation/d/11vUTgo507-mqVcihYos_RzoPPCW7z13aDzes7mCGGDM/edit?usp=sharing)
 
 ## Team Name 
 * Debug Thugs
