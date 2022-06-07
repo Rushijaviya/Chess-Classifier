@@ -37,4 +37,5 @@
 * [2nd Convolution + MaxPool](https://drive.google.com/drive/folders/1pxfK8rMJBQcW0EJXN6EsBGEkkFR33mWc?usp=sharing)
 * [Code](https://colab.research.google.com/drive/1hWM2yt7vrs8GPys6nOK3yEvO_L_Y0-6M?usp=sharing)
 * [Presentation](https://docs.google.com/presentation/d/11vUTgo507-mqVcihYos_RzoPPCW7z13aDzes7mCGGDM/edit?usp=sharing)
-* [Report]()
+* [Report](ML_Report.pdf)
+* [Drive link with all hidden layer data](https://drive.google.com/drive/folders/1KSIRbqiCG_XfcWFGi-JOX7wIBPzkFWHI?usp=sharing) 
