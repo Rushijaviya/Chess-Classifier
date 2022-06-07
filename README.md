@@ -1,10 +1,10 @@
 # Machine Learning Project (CS308)
 
 ## PPT
-* [CHESS Pieces Classifier](https://docs.google.com/presentation/d/11vUTgo507-mqVcihYos_RzoPPCW7z13aDzes7mCGGDM/edit?usp=sharing)
+* [CHESS Pieces Classifier Presentation](https://docs.google.com/presentation/d/11vUTgo507-mqVcihYos_RzoPPCW7z13aDzes7mCGGDM/edit?usp=sharing)
 
 ## Final Report
-* [CHESS Pieces Classifier](ML_Report.pdf)
+* [CHESS Pieces Classifier Report](ML_Report.pdf)
 
 ## Team Name 
 * Debug Thugs
