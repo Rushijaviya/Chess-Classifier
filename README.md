@@ -15,7 +15,7 @@
 * [Mohit Panchasara](https://github.com/MohitPanchasara)
 * [Manthan Ghasadiya](https://github.com/manthanghasadiya)
 
-## course Instructor
+## Course Instructor
 * Dr. Jignesh Bhatt
 
 ## Teaching Assistant
